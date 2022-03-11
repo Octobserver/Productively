@@ -49,6 +49,15 @@ Productively Scheduling app is the ultimate time management application that all
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+## Demo
+Calendar Page: <br>
+![alt text](https://github.com/Octobserver/Productively/blob/main/demo1.png)
+Add Task Page: <br>
+![alt text](https://github.com/Octobserver/Productively/blob/main/demo2.png)
+Producitivity Score Page: <br>
+![alt text](https://github.com/Octobserver/Productively/blob/main/demo3.png)
+Resources: <br>
+![alt text](https://github.com/Octobserver/Productively/blob/main/demo4.png)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -158,18 +167,6 @@ Another projected idea to extend our algorithm is something we call the "Low Pri
 Please note that 3 stars is the highest priority, and the value of "x" is still to be determined.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-## Demo
-Calendar Page: <br>
-![alt text](https://github.com/Octobserver/Productively/blob/main/demo1.png)
-Add Task Page: <br>
-![alt text](https://github.com/Octobserver/Productively/blob/main/demo2.png)
-Producitivity Score Page: <br>
-![alt text](https://github.com/Octobserver/Productively/blob/main/demo3.png)
-Resources: <br>
-![alt text](https://github.com/Octobserver/Productively/blob/main/demo4.png)
 
 
 

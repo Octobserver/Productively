@@ -164,6 +164,14 @@ Please note that 3 stars is the highest priority, and the value of "x" is still 
 ## Demo
 Calendar Page: <br>
 ![alt text](https://github.com/Octobserver/Productively/blob/main/demo1.png)
+Add Task Page: <br>
+![alt text](https://github.com/Octobserver/Productively/blob/main/demo2.png)
+Producitivity Score Page: <br>
+![alt text](https://github.com/Octobserver/Productively/blob/main/demo3.png)
+Resources: <br>
+![alt text](https://github.com/Octobserver/Productively/blob/main/demo4.png)
+
+
 
 <!-- ONLINE DEPLOYMENT -->
 ## Usage

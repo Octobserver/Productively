@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap');
+
+
+.button {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    font-family: "Proxima Nova", sans-serif;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.button img {
+    width: 35px;
+    position: relative;
+    float: left;
+    height: 100%;
+    object-fit: contain;
+    left: 75px;
+    padding-top: 8px;
+    /*position: absolute;*/
+    justify-content: center;
+    display: flex;
+}
+
+
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+
+
+
+

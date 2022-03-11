@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Proxima Nova',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: local('Proxima Nova Bold'), url(./ProximaNovaBold.otf) format('opentype');
+}

@@ -18,6 +18,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
@@ -101,6 +102,7 @@ NOTE: If you're using IntelliJ IDEA, please install the ".env files support" plu
    
    (Yes, you need to do "npm install" both for the client server as well!)
    
+   
 ### Going Beyond CRUD
 In order to go beyond CRUD, we created an algorithm that automatically gives users recommendations for future planning based on past task accomplishment. Since we are still developping the app, the following explains the formula as well as how instructors can verify our work:
     
@@ -158,6 +160,10 @@ Please note that 3 stars is the highest priority, and the value of "x" is still 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+
+## Demo
+Calendar Page: <br>
+![alt text](https://github.com/Octobserver/Productively/blob/main/demo1.png)
 
 <!-- ONLINE DEPLOYMENT -->
 ## Usage
